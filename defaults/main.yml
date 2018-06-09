@@ -1,0 +1,5 @@
+---
+# defaults file for orangepi
+
+# Choose the monitoring backend to configure (if available)
+#orangepi__monitoring:
